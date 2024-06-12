@@ -1,0 +1,32 @@
+PODS:
+  - MultiSlider (2.1.8):
+    - SweeterSwift
+  - NVActivityIndicatorView (5.2.0):
+    - NVActivityIndicatorView/Base (= 5.2.0)
+  - NVActivityIndicatorView/Base (5.2.0)
+  - SDWebImage (5.19.0):
+    - SDWebImage/Core (= 5.19.0)
+  - SDWebImage/Core (5.19.0)
+  - SweeterSwift (1.2.5)
+
+DEPENDENCIES:
+  - MultiSlider
+  - NVActivityIndicatorView
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - MultiSlider
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SweeterSwift
+
+SPEC CHECKSUMS:
+  MultiSlider: 571b6dfe3e5053d353de53ab82202c6adaa600a9
+  NVActivityIndicatorView: fe52a6a68664c2df8991d7d9e3d86d8d19453c53
+  SDWebImage: 981fd7e860af070920f249fd092420006014c3eb
+  SweeterSwift: 12f5b24e2410ea63e71f1ac089f8235eb5a12ecc
+
+PODFILE CHECKSUM: 2f93cd7ea0e6cacd14bc9c6c00725bcba8ef17e2
+
+COCOAPODS: 1.12.1

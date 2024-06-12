@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Task_12/Pods-Task_12-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MultiSlider/MultiSlider.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SweeterSwift/SweeterSwift.framework
